@@ -26,6 +26,7 @@ Mechanica is part of the
 Useful Resources
 -----------------
 
+* To run Mechanica online in JupyterLab, [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tjsego/mechanica-binder/HEAD)
 * To find the Mechanica source code, visit the [Mechanica project repository](https://github.com/tjsego/mechanica).
 * To find the latest binaries, visit the [Mechanica Azure project](https://dev.azure.com/Mechanica-sim/Mechanica). 
 * To find the documentation, visit the [Mechanica documentation](https://mechanica-documentation.readthedocs.io/en/latest/). 
