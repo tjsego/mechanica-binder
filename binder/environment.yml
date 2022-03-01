@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - mechanica
+dependencies:
+  - python=3.7
+  - mechanica
+  - ipython
+  - notebook
+  - ipywidgets
+  - ipyevents
